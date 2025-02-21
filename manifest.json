@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "TF2 Center Tags",
+  "description": "Extension that allows you to add tags to players on TF2 center.",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
